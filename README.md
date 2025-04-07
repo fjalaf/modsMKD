@@ -14,4 +14,4 @@ Modificaciones en Mecanizádos Diaz
 - Revisar funcionamiento de carga de datos de Contacto, en index, 
 - Asignar número de WSP a herramienta de mensaje en "index"
   
-[] Miniatura de logo en busqueda web
+[ ] Miniatura de logo en busqueda web
