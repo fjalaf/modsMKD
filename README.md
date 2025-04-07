@@ -16,4 +16,4 @@ Modificaciones en Mecanizádos Diaz
 - Miniatura de logo en busqueda web
 - Agregar descriptores a las imágenes, leyenda sobre posicionamiento y metadata SEO.
 - Agregar una foto más en la seccion Haas VF-4 "CARACTERÍSTICAS TÉCNICAS DEL HAAS VF-4 DE 5 EJES"
-- [Opcional] Cambiar colores de numeracion a color naranja.
+- [] Cambiar colores de numeracion a color naranja.
